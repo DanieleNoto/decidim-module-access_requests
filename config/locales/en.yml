@@ -19,6 +19,7 @@ en:
               remove_access: Remove access
               title: Granted requests
               username: Username
+              email: Email
             new:
               actions: Actions
               created_at: Created at
